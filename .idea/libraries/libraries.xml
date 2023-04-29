@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libraries">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/com/hotelproject/libraries/jcalendar-1.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/com/hotelproject/libraries/mysql-connector.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
